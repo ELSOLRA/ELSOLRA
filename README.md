@@ -1,5 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3300&pause=2500&color=48ACDA&center=true&vCenter=true&width=600&height=80&lines=Welcome!+My+name+is+Paulius;I+am+a+Full+Stack+Developer+💻;" alt="Typing SVG"  />
+</div>
 
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <br>
+  <sub>⭐ <a href="https://github.com/ELSOLRA?tab=repositories" target="_blank">Star my repos</a> if you find them helpful! ⭐</sub>
+</div>
 <!--
 **ELSOLRA/ELSOLRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
