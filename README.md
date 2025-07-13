@@ -6,7 +6,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <br>
-  <sub>⭐ <a href="https://github.com/ELSOLRA?tab=repositories" target="_blank">Star my repos</a> if you find them helpful! ⭐</sub>
+  <h4>⭐ <a href="https://github.com/ELSOLRA?tab=repositories" target="_blank">Star my repos</a> if you find them helpful! ⭐</h4>
 </div>
 <!--
 **ELSOLRA/ELSOLRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
