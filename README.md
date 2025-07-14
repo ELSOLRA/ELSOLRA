@@ -3,6 +3,7 @@
 </div>
 
 #
+Coding and logic are my main interests, but exploring nature for both adventure and relaxation, hands-on mechanics, and discovering how things work add balance and inspiration. I like building things that feel right and work well — whether it’s software, systems, or something more hands-on. I'm always exploring new technologies and creating personal projects, not just to learn, but because  I enjoy the challenge, the process of discovery, and the creativity behind it
 
 <div align="center">
 
@@ -51,7 +52,7 @@
   </picture>
 </a>
 &nbsp
-<a href="https://daringfireball.net/projects/markdown/" target="_blank">
+<a href="https://www.markdownguide.org/getting-started/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=markdown&theme=dark&perline=15">
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=markdown&theme=light&perline=15">
