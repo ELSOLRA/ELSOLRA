@@ -218,10 +218,36 @@ Coding and logic are my main interests, but exploring nature for both adventure 
 
 ---
 <div align="center">
+<!-- Github Activity Graph -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ELSOLRA&count_private=true&show_icons=true&theme=tokyonight&title_color=48ACDA&icon_color=3A3CE6&text_color=48ACDA&border_color=30363d">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELSOLRA&count_private=true&show_icons=true&bg_color=FFFFFF&title_color=48ACDA&icon_color=3A3CE6&text_color=48ACDA&border_color=30363d">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ELSOLRA&count_private=true&show_icons=true&bg_color=FFFFFF&title_color=48ACDA&icon_color=3A3CE6&text_color=48ACDA&border_color=30363d">
+</picture>
+<!-- Github Streak Stats -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&background=24283b&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+</picture> 
+<br/>
+<!-- Top Langs -->  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=tokyonight&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d&text_color=48ACDA">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=light&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=light&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d">
+</picture>
+
+</div>
+
+---
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=3A3CE6&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   <br>
   <h4>⭐ <a href="https://github.com/ELSOLRA?tab=repositories" target="_blank">Star my repos</a> if you find them helpful! ⭐</h4>
 </div>
+
+
 <!--
 **ELSOLRA/ELSOLRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
