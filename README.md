@@ -8,7 +8,9 @@ Coding and logic are my main interests, but exploring nature for both adventure 
 <div align="center">
 
 # 🛠️ My Toolbox
-  
+ 
+<br/> 
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/javascript-light.svg">
@@ -216,7 +218,9 @@ Coding and logic are my main interests, but exploring nature for both adventure 
 
 </div>
 
----
+#
+
+<br/>
 <div align="center">
 <!-- Github Activity Graph -->
 <picture>
@@ -224,21 +228,40 @@ Coding and logic are my main interests, but exploring nature for both adventure 
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ELSOLRA&count_private=true&show_icons=true&bg_color=FFFFFF&title_color=48ACDA&icon_color=3A3CE6&text_color=48ACDA&border_color=30363d">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ELSOLRA&count_private=true&show_icons=true&bg_color=FFFFFF&title_color=48ACDA&icon_color=3A3CE6&text_color=48ACDA&border_color=30363d">
 </picture>
-<!-- Github Streak Stats -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&background=24283b&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
-</picture> 
-<br/>
 <!-- Top Langs -->  
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=tokyonight&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d&text_color=48ACDA">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=light&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d">
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELSOLRA&count_private=true&theme=light&layout=donut&title_color=48ACDA&hide_border=false&border_color=30363d">
 </picture>
+<!-- Github Streak Stats -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&background=24283b&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ELSOLRA&theme=transparent&border=30363d&dates=48acda&sideNums=3a3ce6&currStreakNum=48acda&currStreakLabel=48acda&fire=e0af68&sideLabels=3a3ce6&ring=48acda">
+</picture> 
+  
+<br/>
+<br/>
 
 </div>
+
+---
+
+<div align="center">
+<h3>Connect with me:</h3>
+<div/>
+<p align="center">
+<a href="www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="paulius_linkedin" height="45" width="45" /></a>
+<a href="contact@pauliusk.dev" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" height="45" width="45" /></a>
+<a href="https://github.com/ELSOLRA" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg">
+    <img alt="GitHub" align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg" width="45" height="45">
+  </picture>
+</a>
+</p>
 
 ---
 <div align="center">
