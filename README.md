@@ -252,9 +252,9 @@ Coding and logic are my main interests, but exploring nature for both adventure 
 <h3>Connect with me:</h3>
 <div/>
 <p align="center">
-<a href="www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="paulius_linkedin" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="paulius_linkedin" height="45" width="45" /></a>
 <a href="https://pauliusk.dev" target="_blank"><img align="center" src="./assets/images/logo1.png" alt="personal_website" height="45" width="45" /></a>
-<a href="contact@pauliusk.dev" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" height="45" width="45" /></a>
+<a href="mailto:contact@pauliusk.dev" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" height="45" width="45" /></a>
 <a href="https://github.com/ELSOLRA" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg">
