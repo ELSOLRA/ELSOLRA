@@ -183,19 +183,41 @@ Coding and logic are my main interests, but exploring nature for both adventure 
 
 <div align="center">
 <h3>Connect with me:</h3>
-<div/>
-<p align="center">
-<a href="https://www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="paulius_linkedin" height="45" width="45" /></a>
-<a href="https://pauliusk.dev" target="_blank"><img align="center" src="./assets/images/logo1.png" alt="personal_website" height="45" width="45" /></a>
-<a href="mailto:contact@pauliusk.dev" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" height="45" width="45" /></a>
+
+<a href="https://www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="_blank">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="LinkedIn" width="45" height="45"/></picture></a>
+&nbsp
+<a href="https://pauliusk.dev" target="_blank">
+  <picture>
+    <img src="./assets/images/logo1.png" alt="Website" width="45" height="45"/></picture></a>
+&nbsp
+<a href="mailto:contact@pauliusk.dev" target="_blank">
+  <picture>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" width="45" height="45"/></picture></a>
+&nbsp
 <a href="https://github.com/ELSOLRA" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg">
-    <img alt="GitHub" align="center" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg" width="45" height="45">
-  </picture>
-</a>
-</p>
+    <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg" width="45" height="45"></picture></a>
+
+</div>
+
+<!-- <div align="center">
+<h3>Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/paulius-kamuntavicius-06409a2a0" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" alt="paulius_linkedin" height="45" width="45" /></a>
+  <a href="https://pauliusk.dev" target="_blank"><img src="./assets/images/logo1.png" alt="personal_website" height="45" width="45" /></a>
+  &nbsp
+  <a href="mailto:contact@pauliusk.dev" target="blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" alt="Email" height="45" width="45" /></a>
+  <a href="https://github.com/ELSOLRA" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg">
+      <img alt="GitHub"  src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github.svg" width="45" height="45">
+    </picture>
+  </a>
+</div> -->
 
 ---
 <div align="center">
@@ -204,18 +226,3 @@ Coding and logic are my main interests, but exploring nature for both adventure 
   <h4>⭐ <a href="https://github.com/ELSOLRA?tab=repositories" target="_blank">Star my repos</a> if you find them helpful! ⭐</h4>
 </div>
 
-
-<!--
-**ELSOLRA/ELSOLRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
